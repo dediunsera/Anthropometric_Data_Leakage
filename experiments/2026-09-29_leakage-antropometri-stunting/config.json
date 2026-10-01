@@ -1,0 +1,13 @@
+{
+  "experiment_name": "leakage-antropometri-stunting",
+  "random_seed": 42,
+  "reference": "WHO-approx-PROVISIONAL(median/-2SD anchors, interpolated)",
+  "split": "StratifiedGroupKFold(5, groups=household ID RT), fold 1 = test",
+  "n_boot": 1000,
+  "threshold": 0.5,
+  "models": {
+    "LR": "C=1, balanced",
+    "RF": "200 trees, min_leaf=5, sqrt, max_samples=0.5, balanced_subsample",
+    "HGB": "native categorical, max_iter=300, lr=0.08, leaves=31, balanced, early stopping(20)"
+  }
+}

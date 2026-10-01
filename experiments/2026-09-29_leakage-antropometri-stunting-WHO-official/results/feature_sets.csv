@@ -1,0 +1,5 @@
+feature_set,n_raw_features
+B (determinants only),119
+A1 (B + weight),120
+A2 (B + all anthropometry),123
+L0 (height + age + sex),3

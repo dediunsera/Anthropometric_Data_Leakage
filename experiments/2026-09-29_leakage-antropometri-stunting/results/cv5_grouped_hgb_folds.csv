@@ -1,0 +1,21 @@
+scenario,fold,AUC-ROC,F1,Accuracy
+B (determinants only),1,0.6762,0.4330,0.6328
+B (determinants only),2,0.6757,0.4312,0.6247
+B (determinants only),3,0.6748,0.4314,0.6278
+B (determinants only),4,0.6713,0.4289,0.6311
+B (determinants only),5,0.6768,0.4346,0.6329
+A1 (B + weight),1,0.8217,0.5826,0.7666
+A1 (B + weight),2,0.8223,0.5815,0.7602
+A1 (B + weight),3,0.8280,0.5947,0.7722
+A1 (B + weight),4,0.8210,0.5816,0.7648
+A1 (B + weight),5,0.8273,0.5903,0.7719
+A2 (B + all anthropometry),1,0.9986,0.9551,0.9789
+A2 (B + all anthropometry),2,0.9982,0.9545,0.9786
+A2 (B + all anthropometry),3,0.9981,0.9529,0.9779
+A2 (B + all anthropometry),4,0.9985,0.9572,0.9799
+A2 (B + all anthropometry),5,0.9986,0.9580,0.9803
+L0 (height + age + sex),1,0.9987,0.9549,0.9787
+L0 (height + age + sex),2,0.9985,0.9550,0.9788
+L0 (height + age + sex),3,0.9984,0.9551,0.9789
+L0 (height + age + sex),4,0.9987,0.9585,0.9805
+L0 (height + age + sex),5,0.9988,0.9606,0.9815

@@ -1,0 +1,16 @@
+{
+  "raw": 86364,
+  "valid_age_0_59m": 86363,
+  "height_available": 85169,
+  "plausible_HAZ_abs_le_6": 84202,
+  "stunted_n": 19283,
+  "prevalence_unweighted": 0.2290088121422294,
+  "prevalence_weighted": 0.21373979387103736,
+  "reference": "WHO-approx-PROVISIONAL(median/-2SD anchors, interpolated)",
+  "train_n": 67360,
+  "test_n": 16842,
+  "train_prev": 0.2290083135391924,
+  "test_prev": 0.22901080631753948,
+  "households_train": 60271,
+  "households_test": 15075
+}

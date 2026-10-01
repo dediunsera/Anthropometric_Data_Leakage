@@ -1,0 +1,16 @@
+{
+  "raw": 86364,
+  "valid_age_0_59m": 86363,
+  "height_available": 85169,
+  "plausible_HAZ_abs_le_6": 84205,
+  "stunted_n": 19825,
+  "prevalence_unweighted": 0.23543732557449082,
+  "prevalence_weighted": 0.21978853812071647,
+  "reference": "WHO-LMS-official(lenanthro.txt)",
+  "train_n": 67364,
+  "test_n": 16841,
+  "train_prev": 0.23543732557449082,
+  "test_prev": 0.23543732557449082,
+  "households_train": 60286,
+  "households_test": 15060
+}

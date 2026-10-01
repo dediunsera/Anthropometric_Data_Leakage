@@ -1,0 +1,52 @@
+exclusion_reason,variable
+identifiers/design,ID ART
+identifiers/design,ID RT
+identifiers/design,ID Ibu
+identifiers/design,ID Anak Terakhir
+identifiers/design,Penimbang Populasi Individu
+identifiers/design,Penimbang Populasi RT
+identifiers/design,Primary Sampling Unit
+identifiers/design,STRATA
+identifiers/design,1. No Urut ART
+target-definition components (used only in L0/A2),J02.b.Tinggi/Panjang Badan (cm)
+target-definition components (used only in L0/A2),6. Tanggal Lahir
+target-definition components (used only in L0/A2),2. Tanggal Pengumpulan data: (tgl-bln)
+target-definition components (used only in L0/A2),7. Umur Bulan
+target-definition components (used only in L0/A2),7. Umur hari
+target-definition components (used only in L0/A2),Kode umur
+measurement-process artefacts,"J02.c.KHUSUS UNTUK BALITA, (Posisi pengukuran TB/PB)"
+measurement-process artefacts,J03.a.Apakah [NAMA] diukur Lingkar Perut?
+measurement-process artefacts,J07.a.Apakah [NAMA] diukur Lingkar Lengan Atas (LILA)?
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.Alasan [NAMA] mendapatkan PMT? a.	Gizi buruk
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.b.	Gizi Kurang/BGM
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.c.	Kurus
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.d.	Berat badan tidak naik 2 kali (2T)
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.e.	Sakit-sakitan
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.f.	Karena ikut penimbangan di Posyandu
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.g.	Keluarga miskin (gakin)
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.h.	Lainnya
+outcome-derived (hidden leakage: PMT given because of undernutrition),I49.h.Sebutkan
+stunting-knowledge items possibly affected by child's status,G03.b.Menurut [NAMA] apa yang dimaksud dengan stunting?  1)	Berat badan tidak naik
+stunting-knowledge items possibly affected by child's status,G03.2)	Gagal tumbuh
+stunting-knowledge items possibly affected by child's status,G03.3)	Kerdil/cebol
+stunting-knowledge items possibly affected by child's status,G03.4)	Berat badan tidak sesuai dengan Panjang/tinggi badan (Gizi kurang/wasting)
+stunting-knowledge items possibly affected by child's status,G03.5)	Panjang/ tinggi badan tidak sesuai umur (pendek/stunted)
+stunting-knowledge items possibly affected by child's status,G03.6)	Kurang gizi dalam waktu lama
+stunting-knowledge items possibly affected by child's status,G03.7)	Berat badan tidak sesuai dengan umur (berat badan kurang/underweight)
+stunting-knowledge items possibly affected by child's status,G03.8)	Kurang energi kronis (KEK)
+stunting-knowledge items possibly affected by child's status,G03.9)	Anemia
+stunting-knowledge items possibly affected by child's status,G03.c.Selama ini darimana [NAMA] mengetahui informasi tentang stunting?
+stunting-knowledge items possibly affected by child's status,G03.c.Sebutkan
+high missingness (>95%) / free text,B07.b.	Tipe atau jenis diabetes mellitus (DM)/ kencing manis yang diderita oleh [NAMA]?
+high missingness (>95%) / free text,B18.Apakah [NAMA] pernah didiagnosis menderita hipertensi oleh dokter?
+high missingness (>95%) / free text,B24.Apakah [NAMA] pernah didiagnosis menderita stroke oleh dokter?
+high missingness (>95%) / free text,G03.c.Sebutkan
+high missingness (>95%) / free text,G14.Sebutkan jenis rokok yang biasa [NAMA] hisap: a.	Rokok kretek
+high missingness (>95%) / free text,G14.b.	Rokok putih
+high missingness (>95%) / free text,G14.c.	Rokok linting
+high missingness (>95%) / free text,G14.d.	Elektrik
+high missingness (>95%) / free text,G14.e.	Shisha
+high missingness (>95%) / free text,G18.Apakah [NAMA] biasa merokok di dalam rumah?
+high missingness (>95%) / free text,G47.Apakah [NAMA] sudah mendapat haid/ menstruasi?
+high missingness (>95%) / free text,I10.Salin dari catatan/dokumen lingkar kepala [NAMA]
+high missingness (>95%) / free text,2. Kabupaten/Kota
