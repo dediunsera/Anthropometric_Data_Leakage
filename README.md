@@ -1,4 +1,4 @@
-# Anthropometric Data Leakage – SKI 2023 (target: IJECE)
+# Anthropometric Data Leakage – SKI 2023 (IJECE)
 
 - `Eksperimen_Data_Leakage_Stunting.md` : rencana eksperimen awal
 - `experiments/2026-09-29_leakage-antropometri-stunting-WHO-official/` : **HASIL FINAL** (rujukan WHO resmi lenanthro.txt)
